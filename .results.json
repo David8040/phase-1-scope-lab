@@ -5,15 +5,15 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2024-01-13T19:52:22.769Z",
-    "end": "2024-01-13T19:52:23.324Z",
-    "duration": 555
+    "start": "2024-01-13T19:56:52.077Z",
+    "end": "2024-01-13T19:56:52.582Z",
+    "duration": 505
   },
   "tests": [
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 4,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "duration": 11,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -52,7 +52,7 @@
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 4,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,7 +80,7 @@
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "duration": 11,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
